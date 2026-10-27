@@ -1,0 +1,15 @@
+step,detail
+shape,1000 rows x 16 cols
+missing(before),{'Logistics_Delay_Reason': 263}
+duplicates,0
+missing(after),0
+lat range ok,True
+lon range ok,True
+delay flag vs reason mismatch,465
+outliers IQR,Inventory_Level: 0
+outliers IQR,Temperature: 0
+outliers IQR,Humidity: 0
+outliers IQR,Waiting_Time: 0
+outliers IQR,User_Transaction_Amount: 0
+outliers IQR,Asset_Utilization: 0
+outliers IQR,Demand_Forecast: 0
