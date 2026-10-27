@@ -1,0 +1,4 @@
+model,CV_RMSE,test_MAE,test_RMSE,test_R2
+Baseline (mean),14.449,12.685,14.668,-0.0
+Linear Regression,14.689,12.971,14.924,-0.036
+Random Forest,14.962,13.042,15.07,-0.056

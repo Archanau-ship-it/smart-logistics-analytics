@@ -1,0 +1,4 @@
+model,CV_AUC,test_acc,test_F1,test_AUC
+Baseline (majority),0.5,0.565,0.722,0.5
+Logistic Regression,0.779,0.75,0.74,0.786
+Random Forest,0.789,0.755,0.749,0.794

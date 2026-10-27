@@ -1,0 +1,4 @@
+route,allocated,delay_rate
+Clear,150.0,0.35060975609756095
+Detour,100.0,0.35942028985507246
+Heavy,50.0,1.0
